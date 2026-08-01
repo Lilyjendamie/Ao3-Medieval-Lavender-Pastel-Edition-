@@ -1,6 +1,6 @@
 # Lavender Pastel Medieval AO3 Skin
 
-A soft lavender pastel reinterpretation of the original *DreamyDoves* skin created by **Bounckery*.
+A soft lavender pastel reinterpretation of the original *DreamyDoves* skin created by **Bounckery**.
 
 > **Important:** This project is a modified version of the original work. All credit for the original concept, structure, and design belongs to **Bounckery**. This repository only contains my visual modifications and customization while respecting the original GPL-3.0 license.
 

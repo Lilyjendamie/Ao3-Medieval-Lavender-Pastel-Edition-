@@ -1,18 +1,18 @@
 # Lavender Pastel Medieval AO3 Skin
 
-A soft lavender pastel reinterpretation of the original **Replace the AO3 Icons** skin created by **ZerafinaCSS**.
+A soft lavender pastel reinterpretation of the original *DreamyDoves* skin created by **Bounckery*.
 
-> **Important:** This project is a modified version of the original work. All credit for the original concept, structure, and design belongs to **ZerafinaCSS**. This repository only contains my visual modifications and customization while respecting the original GPL-3.0 license.
+> **Important:** This project is a modified version of the original work. All credit for the original concept, structure, and design belongs to **Bounckery**. This repository only contains my visual modifications and customization while respecting the original GPL-3.0 license.
 
 ---
 
 ## Original Project
 
-**Replace the AO3 Icons**  
-Created by **ZerafinaCSS**
+**DreamyDoves**  
+Created by **Bounckery**
 
 - AO3 Instructions: https://ao3.org/works/54831748
-- Original Repository: https://github.com/ZerafinaCSS/Replace-the-AO3-Icons
+- Original Repository: (https://github.com/Bounckery/DreamyDoves)
 - License: GPL-3.0
 
 Please consider supporting the original creator by visiting their repository.
@@ -42,8 +42,8 @@ The goal of this edition is **not** to replace the original project, but to offe
 ## Credits
 
 **Original Skin**
-- **Author:** ZerafinaCSS
-- **Repository:**[ https://github.com/ZerafinaCSS/Replace-the-AO3-Icons](https://github.com/Bounckery/DreamyDoves/blob/main/README.md)
+- **Author:** Bounckery
+- **Repository:** (https://github.com/Bounckery/DreamyDoves/blob/main/README.md)
 
 **Lavender Pastel Edition**
 - Modified by: LiLyJendamie

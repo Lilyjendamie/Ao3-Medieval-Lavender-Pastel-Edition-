@@ -52,6 +52,6 @@ The goal of this edition is **not** to replace the original project, but to offe
 
 ## License
 
-This project is based on **Replace the AO3 Icons** by **ZerafinaCSS** and remains subject to the **GPL-3.0 License**.
+This project is based on *DreamyDoves* by **Bounckery** and remains subject to the **GPL-3.0 License**.
 
 Please refer to the original repository for the complete license information.
